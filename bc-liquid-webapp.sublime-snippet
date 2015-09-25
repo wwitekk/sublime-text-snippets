@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{module_webapps id="$1" render="collection" collection="items" filter="all" sortType="weightreverse" template="$0" }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>webapp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
