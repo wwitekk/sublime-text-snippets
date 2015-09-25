@@ -1,4 +1,4 @@
-# sublime-text-snippets
+# Sublime Text snippets
 Sublime Text Snippets for Busiess Catalyst (Liquid) and general.
 
 ##Installation:
