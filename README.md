@@ -5,8 +5,8 @@ Sublime Text Snippets for Busiess Catalyst Liquid and general
 Place *.sublime-snippet files into folder: "c:\Users\[user name]\AppData\Roaming\Sublime Text 3\Packages\User\" 
 
 ##Table of content:
-- [safe image](#Safe image)
-- [safe tag](#Safe tag)
+- [safe image](#Safe-image)
+- [safe tag](#Safe-tag)
 - short webb app module
 - other
   - console log 
