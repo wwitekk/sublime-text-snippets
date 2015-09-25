@@ -1,10 +1,8 @@
 # Sublime Text snippets
 Sublime Text Snippets for Busiess Catalyst (Liquid) and general.
 
-##Installation:
-Place *.sublime-snippet files into folder: "c:\Users\[user name]\AppData\Roaming\Sublime Text 3\Packages\User\" 
-
 ##Table of content:
+- [Installation](https://github.com/wwitekk/sublime-text-snippets#installation)
 - [safe image](https://github.com/wwitekk/sublime-text-snippets#safe-image)
 - [safe tag](https://github.com/wwitekk/sublime-text-snippets#safe-tag)
 - [short webb app module](https://github.com/wwitekk/sublime-text-snippets#short-webb-app)
@@ -14,6 +12,9 @@ Place *.sublime-snippet files into folder: "c:\Users\[user name]\AppData\Roaming
 - [for](https://github.com/wwitekk/sublime-text-snippets#for)
 - other([image placeholder](https://github.com/wwitekk/sublime-text-snippets#image-placeholder); 
  [console log](https://github.com/wwitekk/sublime-text-snippets#console-log))
+
+##Installation:
+Place *.sublime-snippet files into folder: "c:\Users\[user name]\AppData\Roaming\Sublime Text 3\Packages\User\" 
 
 ##Snippets:
 
