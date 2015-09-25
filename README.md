@@ -1,5 +1,5 @@
 # sublime-text-snippets
-Sublime Text Snippets for Busiess Catalyst Liquid and general
+Sublime Text Snippets for Busiess Catalyst (Liquid) and general.
 
 ##Installation:
 Place *.sublime-snippet files into folder: "c:\Users\[user name]\AppData\Roaming\Sublime Text 3\Packages\User\" 
@@ -12,9 +12,9 @@ Place *.sublime-snippet files into folder: "c:\Users\[user name]\AppData\Roaming
 - [if - else](https://github.com/wwitekk/sublime-text-snippets#if-else)
 - [if - elseif - else](https://github.com/wwitekk/sublime-text-snippets#if-elseif-else)
 - [for](https://github.com/wwitekk/sublime-text-snippets#for)
-- other
-  - [image placeholder](https://github.com/wwitekk/sublime-text-snippets#image-placeholder)
-  - [console log](https://github.com/wwitekk/sublime-text-snippets#console-log) 
+- other(
+ [image placeholder](https://github.com/wwitekk/sublime-text-snippets#image-placeholder); 
+ [console log](https://github.com/wwitekk/sublime-text-snippets#console-log))
 
 ##Snippets:
 
